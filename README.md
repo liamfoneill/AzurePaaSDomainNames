@@ -3,19 +3,19 @@ I am trying to maintain a list of domain names used by Azure Services so it is e
 
 | Private DNS Zone                        | Service                     |
 |-----------------------------------------|-----------------------------|
-| privatelink.azurecr.io                  | Azure Container Registry    |
+| privatelink.azurecr.io                  | Container Registry    |
 | privatelink.azurewebsites.net           | App Service                 |
-| privatelink.blob.core.windows.net       | Azure Storage (Blob)        |
-| privatelink.database.windows.net        | Azure SQL                   |
-| privatelink.documents.azure.com         | CosmosDB                    |
-| privatelink.file.core.windows.net       | Azure Storage (File)        |
-| privatelink.mariadb.database.azure.com  | Azure Database (MariaDB)    |
-| privatelink.mysql.database.azure.com    | Azure Database (MariaDB)    |
-| privatelink.postgres.database.azure.com | Azure Database (PostgreSQL) |
-| privatelink.queue.core.windows.net      | Azure Storage (Queue)       |
-| privatelink.redis.cache.windows.net     | Azure Redis Cache           |
+| privatelink.blob.core.windows.net       | Storage (Blob)        |
+| privatelink.database.windows.net        | Database (SQL)                   |
+| privatelink.documents.azure.com         | Database (CosmosDB)                    |
+| privatelink.file.core.windows.net       | Storage (File)        |
+| privatelink.mariadb.database.azure.com  | Database (MariaDB)    |
+| privatelink.mysql.database.azure.com    | Database (MariaDB)    |
+| privatelink.postgres.database.azure.com | Database (PostgreSQL) |
+| privatelink.queue.core.windows.net      | Storage (Queue)       |
+| privatelink.redis.cache.windows.net     | Redis Cache           |
 | privatelink.servicebus.windows.net      | Service Bus                 |
-| privatelink.sql.azuresynapse.net        | Azure Synapse (SQL)         |
-| privatelink.table.core.windows.net      | Azure Storage (Table)       |
-| privatelink.vault.azure.net             | Azure Key Vault             |
-| privatelink.<region>.azmk8s.io        | Azure Kubernetes Service (Example: privatelink.westeurope.azmk8s.io)    |
+| privatelink.sql.azuresynapse.net        | Synapse (SQL)         |
+| privatelink.table.core.windows.net      | Storage (Table)       |
+| privatelink.vault.azure.net             | Key Vault             |
+| privatelink.<region>.azmk8s.io        | Kubernetes Service (Example: privatelink.westeurope.azmk8s.io)    |
