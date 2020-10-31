@@ -1,4 +1,4 @@
-# AzurePaaSDomainNames
+# Azure PaaS Domain Names for Private Endpoints
 I am trying to maintain a list of domain names used by Azure Services so it is easier to onboard Private Endpoints at scale. Please help me do this by submitting a Pull Request when you find a new one.
 
 | Private DNS Zone                        | Service                     |
