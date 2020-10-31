@@ -18,4 +18,4 @@ I am trying to maintain a list of domain names used by Azure Services so it is e
 | privatelink.sql.azuresynapse.net        | Azure Synapse (SQL)         |
 | privatelink.table.core.windows.net      | Azure Storage (Table)       |
 | privatelink.vault.azure.net             | Azure Key Vault             |
-| privatelink.westeurope.azmk8s.io        | Azure Kubernetes Service    |
+| privatelink.<region>.azmk8s.io        | Azure Kubernetes Service (Example: privatelink.westeurope.azmk8s.io    |
